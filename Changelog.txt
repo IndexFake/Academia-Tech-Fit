@@ -1,0 +1,24 @@
+Changelog - Site Academia TechFit
+
+v0.5
+• Versão inicial do site.
+• Área Cliente em manutenção.
+• Área de treinos em manutenção.
+• Área de inscrição em construção.
+• Área de horários em construção.
+• Atualizado o valor e benefícios dos planos.
+• Criado a área de Equipe.
+• Algumas outras melhorias e correções de bugs.
+
+v0.7
+• Adicionado a área cliente, ainda em construção.
+• Adicionado fotos da academia.
+• Área de treinos concluida.
+• Algumas outras melhorias e correções de bugs.
+
+v1.0
+• Área Cliente concluida.
+• Formulário para inscrição na academia concluído.
+• Adicionado localização da academia.
+• Adicionado tabela de horários.
+• Algumas outras melhorias e correções de bugs.
